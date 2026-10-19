@@ -10,7 +10,7 @@ Jie Xu · Ziyi Jin · Kangjin Yu · Can Jiang · Hongjun Huang · Tongxing Jin �
 
 Anyverse Dynamics | 无界动力
 
-[Paper (arXiv:2609.13675)](https://arxiv.org/abs/2609.13675) · [PDF mirror](paper/preprint.pdf) · [Video](#video) · [Reproduction archive](https://github.com/jiejie567/rethink-lio-gravity/releases/tag/v1.0.0)
+[Paper (arXiv:2609.13675)](https://arxiv.org/abs/2609.13675) · [Code](https://github.com/Anyverse-Dynamics/rethink-lio-gravity) · [PDF mirror](paper/preprint.pdf) · [Video](#video) · [Reproduction archive](https://github.com/jiejie567/rethink-lio-gravity/releases/tag/v1.0.0)
 
 Corresponding author: Zhongpu Xia. Contact: Jie Xu
 ([jeff_xu_0503@foxmail.com](mailto:jeff_xu_0503@foxmail.com)).
